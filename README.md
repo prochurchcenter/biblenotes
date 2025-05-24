@@ -1,6 +1,6 @@
 # Bible note  - bible study note Platform
 
-Bible note is a comprehensive bible study note Platform that combines  with intuitive document management for modern bible study note professionals. Built with Next.js, TypeScript, and Tailwind CSS.
+Bible note is a comprehensive bible study note Platform that combines  with intuitive document management for modern bible study note professionals. Built with React.js, TypeScript, and Tailwind CSS.
 
 ## 🚀 Features
 
